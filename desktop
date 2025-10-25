@@ -1,0 +1,3068 @@
+
+
+
+
+
+
+<!doctype html>
+
+<html class="windows no-js" lang="en" dir="ltr" data-country-code="CN" data-needs-consent="False" data-latest-firefox="144.0" data-esr-versions="140.4.0" data-gtm-container-id="GTM-527L9RBL" data-stub-attribution-rate="1.0" data-sentry-dsn="https://bbb4b8f5275e68de10cfe61262ebc3d2@o1069899.ingest.us.sentry.io/4508966604242944" >
+  <head>
+    <meta charset="utf-8">
+
+    <!--[if !IE]><!-->
+    <script src="https://www.firefox.com/media/js/site.e11ca69997f6.js"></script>
+
+    
+    <!--<![endif]-->
+
+    <!--[if IE 9]>
+    <script src="https://www.firefox.com/media/js/site-ie.c7db1be2702b.js"></script>
+    <![endif]-->
+
+<!--
+
+
+             _.-~-.
+           7''  Q..\
+        _7         (_
+      _7  _/    _q.  /
+    _7 . ___  /VVvv-'_                                            .
+   7/ / /~- \_\\      '-._     .-'                      /       //
+  ./ ( /-~-/||'=.__  '::. '-~'' {             ___   /  //     ./{
+ V   V-~-~| ||   __''_   ':::.   ''~-~.___.-'' _/  // / {_   /  {  /
+  VV/-~-~-|/ \ .'__'. '.    '::                     _ _ _        ''.
+  / /~~~~||VVV/ /  \ )  \        _ __ ___   ___ ___(_) | | __ _   .::'
+ / (~-~-~\\.-' /    \'   \::::. | '_ ` _ \ / _ \_  / | | |/ _` | :::'
+/..\    /..\__/      '     '::: | | | | | | (_) / /| | | | (_| | ::'
+vVVv    vVVv                 ': |_| |_| |_|\___/___|_|_|_|\__,_| ''
+
+Hi there, nice to meet you!
+
+Interested in having a direct impact on hundreds of millions of users? Join
+Mozilla, and become part of a global community that’s helping to build a
+brighter future for the Web.
+
+Visit https://www.mozilla.org/careers to learn about our current job openings.
+Visit https://www.mozilla.org/contribute for more ways to get involved and
+help support Mozilla.
+-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+    
+    <title>
+  Download and test future releases of Firefox for desktop, Android and iOS.
+ — Firefox</title>
+    <meta name="description" content="
+  Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Firefox">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.firefox.com/en-US/channel/desktop/">
+    <meta property="og:image" content="https://www.firefox.com/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png">
+    <meta property="og:title" content="
+  Download and test future releases of Firefox for desktop, Android and iOS.
+">
+    <meta property="og:description" content="
+  Experience cutting-edge browser features in pre-release versions: Firefox Developer Edition, Firefox Beta and Firefox Nightly. Download now!
+">
+    <meta property="fb:page_id" content="14696440021">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@firefox">
+    <meta name="twitter:domain" content="firefox.com">
+    <meta name="twitter:app:name:googleplay" content="Firefox">
+    <meta name="twitter:app:id:googleplay" content="org.mozilla.firefox">
+    <meta name="twitter:app:name:iphone" content="Firefox">
+    <meta name="twitter:app:id:iphone" content="989804926">
+    <meta name="twitter:app:name:ipad" content="Firefox">
+    <meta name="twitter:app:id:ipad" content="989804926">
+    <link rel="apple-touch-icon" type="image/png" sizes="180x180" href="https://www.firefox.com/media/img/favicons/firefox/browser/apple-touch-icon.79c2abeb4e35.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="https://www.firefox.com/media/img/favicons/firefox/browser/favicon-196x196.59e3822720be.png">
+    <link rel="shortcut icon" href="https://www.firefox.com/media/img/favicons/firefox/browser/favicon.f093404c0135.ico">
+    <link rel="canonical" href="https://www.firefox.com/en-US/channel/desktop/">
+    
+    <link rel="alternate" hreflang="an" href="https://www.firefox.com/an/channel/desktop/" title="aragonés">
+        <link rel="alternate" hreflang="ar" href="https://www.firefox.com/ar/channel/desktop/" title="عربي">
+        <link rel="alternate" hreflang="az" href="https://www.firefox.com/az/channel/desktop/" title="Azərbaycanca">
+        <link rel="alternate" hreflang="be" href="https://www.firefox.com/be/channel/desktop/" title="Беларуская">
+        <link rel="alternate" hreflang="bg" href="https://www.firefox.com/bg/channel/desktop/" title="Български">
+        <link rel="alternate" hreflang="bn" href="https://www.firefox.com/bn/channel/desktop/" title="বাংলা">
+        <link rel="alternate" hreflang="bs" href="https://www.firefox.com/bs/channel/desktop/" title="Bosanski">
+        <link rel="alternate" hreflang="ca" href="https://www.firefox.com/ca/channel/desktop/" title="Català">
+        <link rel="alternate" hreflang="cs" href="https://www.firefox.com/cs/channel/desktop/" title="Čeština">
+        <link rel="alternate" hreflang="cy" href="https://www.firefox.com/cy/channel/desktop/" title="Cymraeg">
+        <link rel="alternate" hreflang="da" href="https://www.firefox.com/da/channel/desktop/" title="Dansk">
+        <link rel="alternate" hreflang="de" href="https://www.firefox.com/de/channel/desktop/" title="Deutsch">
+        <link rel="alternate" hreflang="el" href="https://www.firefox.com/el/channel/desktop/" title="Ελληνικά">
+        <link rel="alternate" hreflang="en-CA" href="https://www.firefox.com/en-CA/channel/desktop/" title="English (Canadian)">
+        <link rel="alternate" hreflang="en-GB" href="https://www.firefox.com/en-GB/channel/desktop/" title="English (British)">
+        <link rel="alternate" hreflang="en" href="https://www.firefox.com/en-US/channel/desktop/" title="English">
+        <link rel="alternate" hreflang="en-US" href="https://www.firefox.com/en-US/channel/desktop/" title="English (USA)">
+        <link rel="alternate" hreflang="eo" href="https://www.firefox.com/eo/channel/desktop/" title="Esperanto">
+        <link rel="alternate" hreflang="es-AR" href="https://www.firefox.com/es-AR/channel/desktop/" title="Español (de Argentina)">
+        <link rel="alternate" hreflang="es-CL" href="https://www.firefox.com/es-CL/channel/desktop/" title="Español (de Chile)">
+        <link rel="alternate" hreflang="es" href="https://www.firefox.com/es-ES/channel/desktop/" title="Español">
+        <link rel="alternate" hreflang="es-ES" href="https://www.firefox.com/es-ES/channel/desktop/" title="Español (de España)">
+        <link rel="alternate" hreflang="es-MX" href="https://www.firefox.com/es-MX/channel/desktop/" title="Español (de México)">
+        <link rel="alternate" hreflang="et" href="https://www.firefox.com/et/channel/desktop/" title="Eesti keel">
+        <link rel="alternate" hreflang="eu" href="https://www.firefox.com/eu/channel/desktop/" title="Euskara">
+        <link rel="alternate" hreflang="fa" href="https://www.firefox.com/fa/channel/desktop/" title="فارسی">
+        <link rel="alternate" hreflang="fi" href="https://www.firefox.com/fi/channel/desktop/" title="suomi">
+        <link rel="alternate" hreflang="fr" href="https://www.firefox.com/fr/channel/desktop/" title="Français">
+        <link rel="alternate" hreflang="fy" href="https://www.firefox.com/fy-NL/channel/desktop/" title="Frysk">
+        <link rel="alternate" hreflang="fy-NL" href="https://www.firefox.com/fy-NL/channel/desktop/" title="Frysk">
+        <link rel="alternate" hreflang="ga-IE" href="https://www.firefox.com/ga-IE/channel/desktop/" title="Gaeilge">
+        <link rel="alternate" hreflang="gl" href="https://www.firefox.com/gl/channel/desktop/" title="Galego">
+        <link rel="alternate" hreflang="gn" href="https://www.firefox.com/gn/channel/desktop/" title="Avañe'ẽ">
+        <link rel="alternate" hreflang="gu" href="https://www.firefox.com/gu-IN/channel/desktop/" title="ગુજરાતી">
+        <link rel="alternate" hreflang="gu-IN" href="https://www.firefox.com/gu-IN/channel/desktop/" title="ગુજરાતી (ભારત)">
+        <link rel="alternate" hreflang="he" href="https://www.firefox.com/he/channel/desktop/" title="עברית">
+        <link rel="alternate" hreflang="hi" href="https://www.firefox.com/hi-IN/channel/desktop/" title="हिन्दी">
+        <link rel="alternate" hreflang="hi-IN" href="https://www.firefox.com/hi-IN/channel/desktop/" title="हिन्दी (भारत)">
+        <link rel="alternate" hreflang="hr" href="https://www.firefox.com/hr/channel/desktop/" title="Hrvatski">
+        <link rel="alternate" hreflang="hu" href="https://www.firefox.com/hu/channel/desktop/" title="magyar">
+        <link rel="alternate" hreflang="hy" href="https://www.firefox.com/hy-AM/channel/desktop/" title="Հայերեն">
+        <link rel="alternate" hreflang="hy-AM" href="https://www.firefox.com/hy-AM/channel/desktop/" title="Հայերեն">
+        <link rel="alternate" hreflang="ia" href="https://www.firefox.com/ia/channel/desktop/" title="Interlingua">
+        <link rel="alternate" hreflang="id" href="https://www.firefox.com/id/channel/desktop/" title="Bahasa Indonesia">
+        <link rel="alternate" hreflang="is" href="https://www.firefox.com/is/channel/desktop/" title="íslenska">
+        <link rel="alternate" hreflang="it" href="https://www.firefox.com/it/channel/desktop/" title="Italiano">
+        <link rel="alternate" hreflang="ja" href="https://www.firefox.com/ja/channel/desktop/" title="日本語">
+        <link rel="alternate" hreflang="ka" href="https://www.firefox.com/ka/channel/desktop/" title="ქართული">
+        <link rel="alternate" hreflang="kk" href="https://www.firefox.com/kk/channel/desktop/" title="Қазақ">
+        <link rel="alternate" hreflang="ko" href="https://www.firefox.com/ko/channel/desktop/" title="한국어">
+        <link rel="alternate" hreflang="lo" href="https://www.firefox.com/lo/channel/desktop/" title="ພາສາລາວ">
+        <link rel="alternate" hreflang="lt" href="https://www.firefox.com/lt/channel/desktop/" title="Lietuvių">
+        <link rel="alternate" hreflang="ml" href="https://www.firefox.com/ml/channel/desktop/" title="മലയാളം">
+        <link rel="alternate" hreflang="mr" href="https://www.firefox.com/mr/channel/desktop/" title="मराठी">
+        <link rel="alternate" hreflang="ms" href="https://www.firefox.com/ms/channel/desktop/" title="Melayu">
+        <link rel="alternate" hreflang="my" href="https://www.firefox.com/my/channel/desktop/" title="မြန်မာဘာသာ">
+        <link rel="alternate" hreflang="nb-NO" href="https://www.firefox.com/nb-NO/channel/desktop/" title="Norsk bokmål">
+        <link rel="alternate" hreflang="nl" href="https://www.firefox.com/nl/channel/desktop/" title="Nederlands">
+        <link rel="alternate" hreflang="nn-NO" href="https://www.firefox.com/nn-NO/channel/desktop/" title="Norsk nynorsk">
+        <link rel="alternate" hreflang="oc" href="https://www.firefox.com/oc/channel/desktop/" title="occitan (lengadocian)">
+        <link rel="alternate" hreflang="pa" href="https://www.firefox.com/pa-IN/channel/desktop/" title="ਪੰਜਾਬੀ">
+        <link rel="alternate" hreflang="pa-IN" href="https://www.firefox.com/pa-IN/channel/desktop/" title="ਪੰਜਾਬੀ (ਭਾਰਤ)">
+        <link rel="alternate" hreflang="pl" href="https://www.firefox.com/pl/channel/desktop/" title="Polski">
+        <link rel="alternate" hreflang="pt-BR" href="https://www.firefox.com/pt-BR/channel/desktop/" title="Português (do Brasil)">
+        <link rel="alternate" hreflang="pt" href="https://www.firefox.com/pt-PT/channel/desktop/" title="Português">
+        <link rel="alternate" hreflang="pt-PT" href="https://www.firefox.com/pt-PT/channel/desktop/" title="Português (Europeu)">
+        <link rel="alternate" hreflang="rm" href="https://www.firefox.com/rm/channel/desktop/" title="rumantsch">
+        <link rel="alternate" hreflang="ro" href="https://www.firefox.com/ro/channel/desktop/" title="Română">
+        <link rel="alternate" hreflang="ru" href="https://www.firefox.com/ru/channel/desktop/" title="Русский">
+        <link rel="alternate" hreflang="sk" href="https://www.firefox.com/sk/channel/desktop/" title="slovenčina">
+        <link rel="alternate" hreflang="sl" href="https://www.firefox.com/sl/channel/desktop/" title="Slovenščina">
+        <link rel="alternate" hreflang="sq" href="https://www.firefox.com/sq/channel/desktop/" title="Shqip">
+        <link rel="alternate" hreflang="sr" href="https://www.firefox.com/sr/channel/desktop/" title="Српски">
+        <link rel="alternate" hreflang="sv" href="https://www.firefox.com/sv-SE/channel/desktop/" title="Svenska">
+        <link rel="alternate" hreflang="sv-SE" href="https://www.firefox.com/sv-SE/channel/desktop/" title="Svenska">
+        <link rel="alternate" hreflang="ta" href="https://www.firefox.com/ta/channel/desktop/" title="தமிழ்">
+        <link rel="alternate" hreflang="tg" href="https://www.firefox.com/tg/channel/desktop/" title="Тоҷикӣ">
+        <link rel="alternate" hreflang="th" href="https://www.firefox.com/th/channel/desktop/" title="ไทย">
+        <link rel="alternate" hreflang="tr" href="https://www.firefox.com/tr/channel/desktop/" title="Türkçe">
+        <link rel="alternate" hreflang="uk" href="https://www.firefox.com/uk/channel/desktop/" title="Українська">
+        <link rel="alternate" hreflang="ur" href="https://www.firefox.com/ur/channel/desktop/" title="اُردو">
+        <link rel="alternate" hreflang="vi" href="https://www.firefox.com/vi/channel/desktop/" title="Tiếng Việt">
+        <link rel="alternate" hreflang="zh" href="https://www.firefox.com/zh-CN/channel/desktop/" title="中文">
+        <link rel="alternate" hreflang="zh-CN" href="https://www.firefox.com/zh-CN/channel/desktop/" title="中文 (简体)">
+        <link rel="alternate" hreflang="zh-TW" href="https://www.firefox.com/zh-TW/channel/desktop/" title="正體中文 (繁體)">
+        
+    
+
+    
+
+    <!--[if lt IE 9]>
+      
+      <script src="https://www.firefox.com/media/js/ie/libs/html5shiv.a94a0b700fa2.js"></script>
+    <![endif]-->
+
+    <!--[if IE]>
+      
+      
+        <link href="https://www.firefox.com/media/css/common-old-ie.bbe55f606804.css" rel="stylesheet" type="text/css">
+      
+    <![endif]-->
+
+    <!--[if !IE]><!-->
+    
+    
+      <link href="https://www.firefox.com/media/css/protocol.0504b0b4c5af.css" rel="stylesheet" type="text/css">
+    
+
+    
+    
+  <link href="https://www.firefox.com/media/css/protocol-picto.cfee40a3cd36.css" rel="stylesheet" type="text/css">
+  <link href="https://www.firefox.com/media/css/protocol-newsletter.0f68eb7e0134.css" rel="stylesheet" type="text/css">
+  <link href="https://www.firefox.com/media/css/protocol-callout.036d0086522d.css" rel="stylesheet" type="text/css">
+  <link href="https://www.firefox.com/media/css/firefox_channel.b88c518f935d.css" rel="stylesheet" type="text/css">
+
+    <!--<![endif]-->
+
+    
+      
+    
+
+
+    
+      <!--[if IE 9]><!-->
+        
+          <script src="https://www.firefox.com/media/js/gtm-snippet.d6a7289381ba.js"></script>
+        
+      <!--<![endif]-->
+    
+  </head>
+
+  <body class="html-ltr  mzp-t-firefox" >
+    <div id="strings"
+      data-global-close="Close"
+      data-global-next="Next"
+      data-global-previous="Previous"
+      ></div>
+
+    
+      
+
+<aside class="moz-consent-banner" id="moz-consent-banner" role="region" aria-label="Cookie Banner" data-nosnippet="true" data-testid="consent-banner">
+  <div class="moz-consent-banner-content">
+    <h2 class="moz-consent-banner-heading">Help us improve your firefox.com experience</h2>
+    <div class="moz-consent-banner-copy">
+      <p>In addition to Cookies necessary for this site to function, we’d like your permission to set some additional Cookies to better understand your browsing needs and improve your experience. Rest assured — we value your privacy.</p>
+      <div class="moz-consent-banner-controls">
+        <button type="button" id="moz-consent-banner-button-accept" class="moz-consent-banner-button moz-consent-banner-button-accept" data-testid="consent-banner-accept-button">
+          Accept All Additional Cookies
+        </button>
+        <button type="button" id="moz-consent-banner-button-reject" class="moz-consent-banner-button moz-consent-banner-button-reject" data-testid="consent-banner-reject-button">
+          Reject All Additional Cookies
+        </button>
+        <a href="/en-US/privacy/websites/cookie-settings/">
+          Cookie settings
+        </a>
+      </div>
+    </div>
+  </div>
+</aside>
+    
+
+    
+      
+
+
+
+
+
+<nav class="m24-navigation m24-mzp-is-sticky" aria-label="Primary">
+  <div class="m24-c-navigation-l-content">
+    <div class="m24-c-navigation-container">
+      <button class="m24-c-navigation-menu-button" type="button" aria-controls="m24-c-navigation-items" data-testid="m24-navigation-menu-button">Menu</button>
+      <a class="m24-c-navigation-logo-link" href="/en-US/" data-link-text="firefox home icon" data-link-position="nav">
+        <img class="m24-c-navigation-logo-image" src="https://www.firefox.com/media/img/logos/firefox/logo-word-hor.f3b18871b657.svg" alt="Firefox home" width="120" height="40">
+      </a>
+      <div class="m24-c-navigation-items" id="m24-c-navigation-items" data-testid="m24-navigation-menu-items">
+        <div class="m24-c-navigation-menu">
+          <div class="m24-c-menu m24-mzp-is-basic">
+            <ul class="m24-c-menu-category-list">
+              
+
+<li class="m24-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="m24-c-menu-title" href="/en-US/features/" aria-haspopup="true" aria-controls="m24-c-menu-panel-features" data-testid="m24-navigation-link-features">
+    <h2>Features</h2>
+  </a>
+  <div class="m24-c-menu-panel" id="m24-c-menu-panel-features" data-testid="m24-navigation-menu-features">
+    <div class="m24-c-menu-panel-container">
+      <button class="m24-c-menu-button-close" type="button" aria-controls="m24-c-menu-panel-features">Close Features menu</button>
+      <div class="m24-c-menu-panel-content">
+        <div class="m24-mzp-l-content-container">
+          <h3 class="m24-c-menu-subtitle">Top Features</h3>
+          <ul class="m24-mzp-l-content">
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/features/block-fingerprinting/" data-link-text="Fingerprint Blocking" data-link-position="topnav - fingerprinting">
+                Fingerprint Blocking
+              </a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/features/adblocker/" data-link-text="Ad Tracker Blocking" data-link-position="topnav - antitracking">
+                Ad Tracker Blocking
+              </a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/features/private-browsing/" data-link-text="Private Browsing Mode" data-link-position="topnav - privatebrowsing">
+                Private Browsing Mode
+              </a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/features/password-manager/" data-link-text="Free Password Manager" data-link-position="topnav - passwords">
+                Free Password Manager
+              </a>
+            </li>
+          </ul>
+          <p class="m24-c-menu-category-link">
+            <a href="/en-US/features/" data-link-text="View all Firefox Features" data-link-position="topnav - all features">
+              View all Firefox Features
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><path fill="currentColor" d="m7.24 1.36 5.89 5.89H0v1.5h13.13l-5.89 5.89L8.3 15.7 16 8 8.3.3z"/></svg>
+            </a>
+          </p>
+        </div>
+      </div>
+    </div><!-- close .m24-c-menu-panel-container -->
+  </div><!-- close .m24-c-menu-panel -->
+</li><!-- close .m24-c-menu-category -->
+              
+
+
+
+<li class="m24-c-menu-category mzp-has-drop-down mzp-js-expandable">
+  <a class="m24-c-menu-title" href="#m24-c-menu-panel-resources" aria-haspopup="true" aria-controls="m24-c-menu-panel-resources" data-testid="m24-navigation-link-resources">
+    <h2>Resources</h2>
+  </a>
+  <div class="m24-c-menu-panel" id="m24-c-menu-panel-resources" data-testid="m24-navigation-menu-resources">
+    <div class="m24-c-menu-panel-container">
+      <button class="m24-c-menu-button-close" type="button" aria-controls="m24-c-menu-panel-resources">Close Resources menu</button>
+      <div class="m24-c-menu-panel-content multi-column">
+        <div class="m24-mzp-l-content-container">
+          <h3 class="m24-c-menu-subtitle">Product</h3>
+          <ul class="m24-mzp-l-content">
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/browsers/desktop/" data-link-text="Desktop" data-link-position="topnav - desktop" data-testid="m24-navigation-menu-link-firefox-desktop">
+                Desktop
+              </a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/browsers/mobile/" data-link-text="Mobile" data-link-position="topnav - mobile">
+                Mobile
+              </a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/firefox/notes/" data-link-text="Release Notes" data-link-position="topnav - release notes">
+                Release Notes
+              </a>
+            </li>
+            <li>
+              
+              <a class="m24-c-menu-item-link" href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources" data-link-text="Support" data-link-position="topnav - support">Support</a>
+            </li>
+            <li>
+              
+              <a class="m24-c-menu-item-link" href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources" data-link-text="Add-Ons" data-link-position="topnav - addons">Add-ons</a>
+            </li>
+          </ul>
+        </div>
+        <div class="m24-mzp-l-content-container">
+          <h3 class="m24-c-menu-subtitle">Learn</h3>
+          <ul class="m24-mzp-l-content">
+            <li>
+              
+              <a class="m24-c-menu-item-link" href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources" data-link-text="Blog" data-link-position="topnav - blog">Blog</a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/compare/" data-link-text="Compare" data-link-position="topnav - compare">
+                Compare
+              </a>
+            </li>
+            <li>
+              
+              <a class="m24-c-menu-item-link" href="https://www.youtube.com/@firefox/podcasts?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=nav&amp;utm_content=resources" data-link-text="Podcast" data-link-position="topnav - podcast">Podcast</a>
+            </li>
+            <li>
+              <a class="m24-c-menu-item-link" href="/en-US/user-privacy/" data-link-text="Data Protection" data-link-position="topnav - data protection">
+                Data Protection
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div><!-- close .m24-c-menu-panel-container -->
+  </div><!-- close .m24-c-menu-panel -->
+</li><!-- close .m24-c-menu-category -->
+            </ul>
+          </div>
+        </div><!-- close .m24-c-navigation-menu -->
+        <div class="m24-c-menu-download">
+          
+
+
+  <div class=" ">
+    
+
+
+
+<div id="nav-download-firefox" class="mzp-c-button-download-container c-button-download-thanks">
+  <a href="/thanks/"
+     class="download-link c-button-download-thanks-link mzp-c-button mzp-t-product mzp-t-product mzp-t-xl"
+     data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US"
+     data-testid="nav-download-firefox"
+     data-cta-text="Download Firefox"
+     data-cta-position="nav">
+    
+      Download
+    
+    <span class="mzp-c-button-icon-end">
+      <!-- TODO: replace with new protocol-assets version -->
+      <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+    </span>
+  </a>
+
+  
+  
+
+
+  
+
+
+
+
+
+
+<div class="fx-unsupported-message win" data-nosnippet="true">
+  <p><strong>Firefox is <a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support">no longer supported</a> on Windows 8.1 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+  <div class="download-platform-list">
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win64 ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US" data-download-version="win64" data-cta-text="Download Firefox Extended Support Release 64-bit" data-cta-type="firefox">
+        Download Firefox ESR 64-bit
+      </a>
+    </p>
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US" data-download-version="win" data-cta-text="Download Firefox Extended Support Release 32-bit" data-cta-type="firefox">
+        Download Firefox ESR 32-bit
+      </a>
+    </p>
+
+    <small class="fx-unsupported-message-all-link">
+      <a href="/en-US/download/all/desktop-esr/">
+        Download a different build
+      </a>
+    </small>
+  </div>
+</div>
+
+<div class="fx-unsupported-message mac" data-nosnippet="true">
+  <p><strong>Firefox is <a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support">no longer supported</a> on macOS 10.14 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+
+  <div class="download-platform-list">
+    <a class="mzp-c-button mzp-t-product download-link ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US" data-download-version="osx" data-cta-text="Firefox Extended Support Release MacOS" data-cta-type="firefox">
+      Download Firefox ESR
+    </a>
+  </div>
+</div>
+
+  <small class="mzp-c-button-download-privacy-link">
+    <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=download-button-thanks">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+  </div>
+
+        </div>
+      </div><!-- close .m24-c-navigation-items -->
+      <div class="mzp-c-navigation-download">
+        <div class="mzp-c-button-download-container">
+          
+
+
+  <div class=" ">
+    
+
+
+
+<div id="nav-download-firefox" class="mzp-c-button-download-container c-button-download-thanks">
+  <a href="/thanks/"
+     class="download-link c-button-download-thanks-link mzp-c-button mzp-t-product mzp-t-product mzp-t-xl"
+     data-direct-link="https://download.mozilla.org/?product=firefox-stub&amp;os=win&amp;lang=en-US"
+     data-testid="nav-download-firefox"
+     data-cta-text="Download Firefox"
+     data-cta-position="nav">
+    
+      Download
+    
+    <span class="mzp-c-button-icon-end">
+      <!-- TODO: replace with new protocol-assets version -->
+      <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+    </span>
+  </a>
+
+  
+  
+
+
+  
+
+
+
+
+
+
+<div class="fx-unsupported-message win" data-nosnippet="true">
+  <p><strong>Firefox is <a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support">no longer supported</a> on Windows 8.1 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+  <div class="download-platform-list">
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win64 ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US" data-download-version="win64" data-cta-text="Download Firefox Extended Support Release 64-bit" data-cta-type="firefox">
+        Download Firefox ESR 64-bit
+      </a>
+    </p>
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US" data-download-version="win" data-cta-text="Download Firefox Extended Support Release 32-bit" data-cta-type="firefox">
+        Download Firefox ESR 32-bit
+      </a>
+    </p>
+
+    <small class="fx-unsupported-message-all-link">
+      <a href="/en-US/download/all/desktop-esr/">
+        Download a different build
+      </a>
+    </small>
+  </div>
+</div>
+
+<div class="fx-unsupported-message mac" data-nosnippet="true">
+  <p><strong>Firefox is <a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support">no longer supported</a> on macOS 10.14 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+
+  <div class="download-platform-list">
+    <a class="mzp-c-button mzp-t-product download-link ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US" data-download-version="osx" data-cta-text="Firefox Extended Support Release MacOS" data-cta-type="firefox">
+      Download Firefox ESR
+    </a>
+  </div>
+</div>
+
+  <small class="mzp-c-button-download-privacy-link">
+    <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=download-button-thanks">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+  </div>
+
+        </div>
+      </div>
+    </div><!-- close .m24-c-navigation-container -->
+  </div><!-- close .m24-c-navigation-l-content -->
+</nav>
+    
+
+    
+
+  
+
+<nav class="c-sub-navigation" aria-labelledby="c-sub-navigation-title">
+  <div class="mzp-l-content">
+    <div class="c-sub-navigation-content">
+      <h2 id="c-sub-navigation-title" class="c-sub-navigation-title">
+        
+          <a href="/en-US/channel/desktop/" data-link-position="subnav" data-link-text="Firefox">
+            
+            Release Channels
+          </a>
+        
+      </h2>
+      <div class="c-sub-navigation-mobile-toggle is-summary" data-testid="sub-navigation-mobile-toggle">
+        <span>Menu</span>
+      </div>
+      <ul class="c-sub-navigation-list is-details is-closed" data-testid="sub-navigation-menu">
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/channel/desktop/"
+            data-link-position="subnav"
+            data-link-text="Nightly and Beta"
+             aria-current="page"
+          >
+            Nightly and Beta
+          </a>
+        </li>
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/channel/android/"
+            data-link-position="subnav"
+            data-link-text="Android Nightly and Beta"
+            
+          >
+            Android Nightly and Beta
+          </a>
+        </li>
+        
+        <li class="c-sub-navigation-item">
+          <a
+            href="/en-US/channel/ios/"
+            data-link-position="subnav"
+            data-link-text="iOS TestFlight"
+            
+          >
+            iOS TestFlight
+          </a>
+        </li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+    <div id="outer-wrapper">
+      
+<main>
+  <section class="mzp-c-callout mzp-t-hero mzp-t-firefox mzp-t-product-firefox mzp-t-background-secondary">
+  <div class="mzp-l-content  mzp-t-content-lg ">
+    <div class="mzp-t-callout-brand mzp-c-logo mzp-t-logo-xl mzp-t-product-firefox"></div>
+    <h1 class="mzp-c-callout-title">Take a browse on the wild side.</h1>
+    
+    <p class="mzp-c-callout-desc">Be among the first to explore future releases of Firefox for desktop, Android and iOS.</p>
+    
+    
+  </div>
+</section>
+
+  
+<section id="beta" class="mzp-is-anchor-link">
+  <section class="mzp-c-callout mzp-l-compact mzp-t-product-beta mzp-t-firefox">
+
+  <div class="mzp-l-content mzp-t-content-lg">
+    <div class="mzp-c-callout-content mzp-c-callout-content-has-brand">
+      <div class="mzp-t-callout-compact-brand mzp-c-logo mzp-t-logo-xl mzp-t-product-beta"></div>
+      <div class="mzp-c-callout-container">
+        <h2 class="mzp-c-callout-title">Beta</h2>
+        
+        <p class="mzp-c-callout-desc">Test about-to-be-released features in the most stable pre-release build.</p>
+        
+      </div>
+    </div>
+    <div class="mzp-c-callout-cta">
+      <div class="mzp-c-callout-cta-container">
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="desktop-beta-download" class="download-button download-button-beta download-button-desktop mzp-c-button-download-container">
+  
+  <div class="nojs-download">
+    
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox Beta
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64"
+               data-cta-text="Download Firefox for Windows 64-bit"
+               data-cta-type="firefox">Windows 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32-bit"
+               data-cta-type="firefox">Windows 32-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+  </div>
+  
+    
+    <div class="unrecognized-download" data-nosnippet="true">
+      <p>Your system may not meet the requirements for Firefox, but you can try one of these versions:</p>
+      
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox Beta
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64"
+               data-cta-text="Download Firefox for Windows 64-bit"
+               data-cta-type="firefox">Windows 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32-bit"
+               data-cta-type="firefox">Windows 32-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+    </div>
+
+    
+    
+
+
+  
+
+
+
+
+
+
+<div class="fx-unsupported-message win" data-nosnippet="true">
+  <p><strong>Firefox Beta is <a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support">no longer supported</a> on Windows 8.1 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+  <div class="download-platform-list">
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win64 ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US" data-download-version="win64" data-cta-text="Download Firefox Extended Support Release 64-bit" data-cta-type="firefox">
+        Download Firefox ESR 64-bit
+      </a>
+    </p>
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US" data-download-version="win" data-cta-text="Download Firefox Extended Support Release 32-bit" data-cta-type="firefox">
+        Download Firefox ESR 32-bit
+      </a>
+    </p>
+
+    <small class="fx-unsupported-message-all-link">
+      <a href="/en-US/download/all/desktop-esr/">
+        Download a different build
+      </a>
+    </small>
+  </div>
+</div>
+
+<div class="fx-unsupported-message mac" data-nosnippet="true">
+  <p><strong>Firefox Beta is <a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support">no longer supported</a> on macOS 10.14 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+
+  <div class="download-platform-list">
+    <a class="mzp-c-button mzp-t-product download-link ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US" data-download-version="osx" data-cta-text="Firefox Extended Support Release MacOS" data-cta-type="firefox">
+      Download Firefox ESR
+    </a>
+  </div>
+</div>
+  
+  <ul class="download-list">
+    
+      <li class="os_win64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-win64"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64&amp;lang=en-US"
+           data-download-version="win64"
+           data-cta-text="Download Firefox for Windows 64-bit"
+           data-testid="desktop-beta-download-win64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-win64-msi"
+           href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+           data-download-version="win64-msi"
+           data-cta-text="Download Firefox for Windows 64-bit MSI"
+           data-testid="desktop-beta-download-win64-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-win64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+           data-download-version="win64-aarch64"
+           data-cta-text="Download Firefox for Windows ARM64/AArch64"
+           data-testid="desktop-beta-download-win64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-win"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=win&amp;lang=en-US"
+           data-download-version="win"
+           data-cta-text="Download Firefox for Windows 32-bit"
+           data-testid="desktop-beta-download-win"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-win-msi"
+           href="https://download.mozilla.org/?product=firefox-beta-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+           data-download-version="win-msi"
+           data-cta-text="Download Firefox for Windows 32-bit MSI"
+           data-testid="desktop-beta-download-win-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_osx">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-osx"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=osx&amp;lang=en-US"
+           data-download-version="osx"
+           data-cta-text="Download Firefox for macOS"
+           data-testid="desktop-beta-download-osx"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-linux64"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64&amp;lang=en-US"
+           data-download-version="linux64"
+           data-cta-text="Download Firefox for Linux 64-bit"
+           data-testid="desktop-beta-download-linux64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                Download for Linux 64-bit
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-beta-download-linux64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-beta-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+           data-download-version="linux64-aarch64"
+           data-cta-text="Download Firefox for Linux ARM64/AArch64"
+           data-testid="desktop-beta-download-linux64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                
+                  Firefox Beta
+                
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+  <small class="fx-privacy-link mzp-c-button-download-privacy-link">
+    <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_content=download-button">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+  
+      </div>
+    </div>
+  </div>
+</section>
+
+  <div class="l-notes mzp-l-content">
+    <ul>
+      <li><a href="/en-US/firefox/beta/notes/">Release Notes</a></li>
+      <li>
+        <a href="/en-US/download/all/desktop-beta/">
+          All Languages and Platforms
+        </a>
+      </li>
+    </ul>
+    <p>
+      
+        Beta is an unstable testing and development platform. By default, Beta sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=channel-desktop#pre-release">Learn what is shared</a>.
+      
+    </p>
+    <p>
+      <a rel="external" href="https://connect.mozilla.org/">Give us feedback</a> to help us put the final tweaks on performance and functionality in a stable environment.
+    </p>
+  </div>
+</section>
+
+<section id="developer" class="mzp-is-anchor-link">
+  <section class="mzp-c-callout mzp-l-compact mzp-t-product-developer mzp-t-firefox">
+
+  <div class="mzp-l-content mzp-t-content-lg">
+    <div class="mzp-c-callout-content mzp-c-callout-content-has-brand">
+      <div class="mzp-t-callout-compact-brand mzp-c-logo mzp-t-logo-xl mzp-t-product-developer"></div>
+      <div class="mzp-c-callout-container">
+        <h2 class="mzp-c-callout-title">Developer Edition</h2>
+        
+        <p class="mzp-c-callout-desc">Build, test, scale and more with the only browser built just for developers.</p>
+        
+      </div>
+    </div>
+    <div class="mzp-c-callout-cta">
+      <div class="mzp-c-callout-cta-container">
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="desktop-developer-download" class="download-button download-button-alpha download-button-desktop mzp-c-button-download-container">
+  
+  <div class="nojs-download">
+    
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        <span>Firefox</span> Developer Edition
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64"
+               data-cta-text="Download Firefox for Windows 64-bit"
+               data-cta-type="firefox">Windows 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32-bit"
+               data-cta-type="firefox">Windows 32-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+  </div>
+  
+    
+    <div class="unrecognized-download" data-nosnippet="true">
+      <p>Your system may not meet the requirements for Firefox, but you can try one of these versions:</p>
+      
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        <span>Firefox</span> Developer Edition
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64"
+               data-cta-text="Download Firefox for Windows 64-bit"
+               data-cta-type="firefox">Windows 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32-bit"
+               data-cta-type="firefox">Windows 32-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+    </div>
+
+    
+    
+
+
+  
+
+
+
+
+
+
+<div class="fx-unsupported-message win" data-nosnippet="true">
+  <p><strong>Firefox Developer Edition is <a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support">no longer supported</a> on Windows 8.1 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+  <div class="download-platform-list">
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win64 ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US" data-download-version="win64" data-cta-text="Download Firefox Extended Support Release 64-bit" data-cta-type="firefox">
+        Download Firefox ESR 64-bit
+      </a>
+    </p>
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US" data-download-version="win" data-cta-text="Download Firefox Extended Support Release 32-bit" data-cta-type="firefox">
+        Download Firefox ESR 32-bit
+      </a>
+    </p>
+
+    <small class="fx-unsupported-message-all-link">
+      <a href="/en-US/download/all/desktop-esr/">
+        Download a different build
+      </a>
+    </small>
+  </div>
+</div>
+
+<div class="fx-unsupported-message mac" data-nosnippet="true">
+  <p><strong>Firefox Developer Edition is <a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support">no longer supported</a> on macOS 10.14 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+
+  <div class="download-platform-list">
+    <a class="mzp-c-button mzp-t-product download-link ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US" data-download-version="osx" data-cta-text="Firefox Extended Support Release MacOS" data-cta-type="firefox">
+      Download Firefox ESR
+    </a>
+  </div>
+</div>
+  
+  <ul class="download-list">
+    
+      <li class="os_win64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-win64"
+           href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win64&amp;lang=en-US"
+           data-download-version="win64"
+           data-cta-text="Download Firefox for Windows 64-bit"
+           data-testid="desktop-developer-download-win64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-win64-msi"
+           href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+           data-download-version="win64-msi"
+           data-cta-text="Download Firefox for Windows 64-bit MSI"
+           data-testid="desktop-developer-download-win64-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-win64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+           data-download-version="win64-aarch64"
+           data-cta-text="Download Firefox for Windows ARM64/AArch64"
+           data-testid="desktop-developer-download-win64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-win"
+           href="https://download.mozilla.org/?product=firefox-devedition-stub&amp;os=win&amp;lang=en-US"
+           data-download-version="win"
+           data-cta-text="Download Firefox for Windows 32-bit"
+           data-testid="desktop-developer-download-win"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-win-msi"
+           href="https://download.mozilla.org/?product=firefox-devedition-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+           data-download-version="win-msi"
+           data-cta-text="Download Firefox for Windows 32-bit MSI"
+           data-testid="desktop-developer-download-win-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_osx">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-osx"
+           href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=osx&amp;lang=en-US"
+           data-download-version="osx"
+           data-cta-text="Download Firefox for macOS"
+           data-testid="desktop-developer-download-osx"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-linux64"
+           href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64&amp;lang=en-US"
+           data-download-version="linux64"
+           data-cta-text="Download Firefox for Linux 64-bit"
+           data-testid="desktop-developer-download-linux64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                Download for Linux 64-bit
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-developer-download-linux64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-devedition-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+           data-download-version="linux64-aarch64"
+           data-cta-text="Download Firefox for Linux ARM64/AArch64"
+           data-testid="desktop-developer-download-linux64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                
+                  <span>Firefox</span> Developer Edition
+                
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+  <small class="fx-privacy-link mzp-c-button-download-privacy-link">
+    <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_content=download-button">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+  
+      </div>
+    </div>
+  </div>
+</section>
+  <div class="l-notes mzp-l-content">
+    <p class="show-linux">Using Debian, Ubuntu or any Debian-based distribution?<br> You can set up our <a href="https://support.mozilla.org/products/firefox/install-and-update-firefox" rel="external noopener" data-cta-text="Get help with your installation">APT repository instead</a>.</p>
+    <ul>
+      <li><a href="/en-US/firefox/developer/notes/">Release Notes</a></li>
+      <li><a href="/en-US/channel/desktop/developer/">Learn more</a></li>
+      <li>
+        <a href="/en-US/download/all/desktop-developer/">
+          All Languages and Platforms
+        </a>
+      </li>
+    </ul>
+    <p>
+    
+      Developer Edition is an unstable testing and development platform. By default, Developer Edition sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=channel-desktop#pre-release">Learn what is shared</a>.
+    
+    </p>
+  </div>
+</section>
+
+<section id="nightly" class="mzp-is-anchor-link">
+    <section class="mzp-c-callout mzp-l-compact mzp-t-product-nightly mzp-t-firefox">
+
+  <div class="mzp-l-content mzp-t-content-lg">
+    <div class="mzp-c-callout-content mzp-c-callout-content-has-brand">
+      <div class="mzp-t-callout-compact-brand mzp-c-logo mzp-t-logo-xl mzp-t-product-nightly"></div>
+      <div class="mzp-c-callout-container">
+        <h2 class="mzp-c-callout-title">Nightly</h2>
+        
+        <p class="mzp-c-callout-desc">Get a sneak peek at our next generation web browser, and help us make it the best browser it can be: try Firefox Nightly.</p>
+        
+      </div>
+    </div>
+    <div class="mzp-c-callout-cta">
+      <div class="mzp-c-callout-cta-container">
+        
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="desktop-nightly-download" class="download-button download-button-nightly download-button-desktop mzp-c-button-download-container">
+  
+  <div class="nojs-download">
+    
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox Nightly
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-nightly-stub&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32/64-bit"
+               data-cta-type="firefox">Windows 32/64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+  </div>
+  
+    
+    <div class="unrecognized-download" data-nosnippet="true">
+      <p>Your system may not meet the requirements for Firefox, but you can try one of these versions:</p>
+      
+  <div class="download download-dumb">
+    <p role="heading" class="download-heading">
+      
+        Firefox Nightly
+        — English (US)
+    </p>
+    <ul>
+      <li><a href="https://download.mozilla.org/?product=firefox-nightly-stub&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win"
+               data-cta-text="Download Firefox for Windows 32/64-bit"
+               data-cta-type="firefox">Windows 32/64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-msi"
+               data-cta-text="Download Firefox for Windows 64-bit MSI"
+               data-cta-type="firefox">Windows 64-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win64-aarch64"
+               data-cta-text="Download Firefox for Windows ARM64/AArch64"
+               data-cta-type="firefox">Windows ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="win-msi"
+               data-cta-text="Download Firefox for Windows 32-bit MSI"
+               data-cta-type="firefox">Windows 32-bit MSI
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=osx&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="osx"
+               data-cta-text="Download Firefox for macOS"
+               data-cta-type="firefox">macOS
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64"
+               data-cta-text="Download Firefox for Linux 64-bit"
+               data-cta-type="firefox">Linux 64-bit
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li><li><a href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+               class="download-link mzp-c-button mzp-t-product ga-product-download"
+               data-download-version="linux64-aarch64"
+               data-cta-text="Download Firefox for Linux ARM64/AArch64"
+               data-cta-type="firefox">Linux ARM64/AArch64
+              <span class="mzp-c-button-icon-end">
+                <!-- TODO: replace with new protocol-assets version -->
+                <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+              </span>
+              </a>
+        </li>
+    </ul>
+  </div>
+
+    </div>
+
+    
+    
+
+
+  
+
+
+
+
+
+
+<div class="fx-unsupported-message win" data-nosnippet="true">
+  <p><strong>Firefox Nightly is <a href="https://support.mozilla.org/kb/firefox-users-windows-7-8-and-81-moving-extended-support">no longer supported</a> on Windows 8.1 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+  <div class="download-platform-list">
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win64 ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win64&lang=en-US" data-download-version="win64" data-cta-text="Download Firefox Extended Support Release 64-bit" data-cta-type="firefox">
+        Download Firefox ESR 64-bit
+      </a>
+    </p>
+    <p>
+      <a class="mzp-c-button mzp-t-product download-link os_win ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=win&lang=en-US" data-download-version="win" data-cta-text="Download Firefox Extended Support Release 32-bit" data-cta-type="firefox">
+        Download Firefox ESR 32-bit
+      </a>
+    </p>
+
+    <small class="fx-unsupported-message-all-link">
+      <a href="/en-US/download/all/desktop-esr/">
+        Download a different build
+      </a>
+    </small>
+  </div>
+</div>
+
+<div class="fx-unsupported-message mac" data-nosnippet="true">
+  <p><strong>Firefox Nightly is <a href="https://support.mozilla.org/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support">no longer supported</a> on macOS 10.14 and below.</strong></p>
+  <p>Please download Firefox ESR (Extended Support Release) to use Firefox.</p>
+
+  <div class="download-platform-list">
+    <a class="mzp-c-button mzp-t-product download-link ga-product-download" href="https://download.mozilla.org/?product=firefox-esr115-latest-ssl&os=osx&lang=en-US" data-download-version="osx" data-cta-text="Firefox Extended Support Release MacOS" data-cta-type="firefox">
+      Download Firefox ESR
+    </a>
+  </div>
+</div>
+  
+  <ul class="download-list">
+    
+      <li class="os_win">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-win"
+           href="https://download.mozilla.org/?product=firefox-nightly-stub&amp;os=win&amp;lang=en-US"
+           data-download-version="win"
+           data-cta-text="Download Firefox for Windows 32/64-bit"
+           data-testid="desktop-nightly-download-win"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-win64-msi"
+           href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win64&amp;lang=en-US"
+           data-download-version="win64-msi"
+           data-cta-text="Download Firefox for Windows 64-bit MSI"
+           data-testid="desktop-nightly-download-win64-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-win64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=win64-aarch64&amp;lang=en-US"
+           data-download-version="win64-aarch64"
+           data-cta-text="Download Firefox for Windows ARM64/AArch64"
+           data-testid="desktop-nightly-download-win64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_win-msi">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-win-msi"
+           href="https://download.mozilla.org/?product=firefox-nightly-msi-latest-ssl&amp;os=win&amp;lang=en-US"
+           data-download-version="win-msi"
+           data-cta-text="Download Firefox for Windows 32-bit MSI"
+           data-testid="desktop-nightly-download-win-msi"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_osx">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-osx"
+           href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=osx&amp;lang=en-US"
+           data-download-version="osx"
+           data-cta-text="Download Firefox for macOS"
+           data-testid="desktop-nightly-download-osx"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              Download
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-linux64"
+           href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64&amp;lang=en-US"
+           data-download-version="linux64"
+           data-cta-text="Download Firefox for Linux 64-bit"
+           data-testid="desktop-nightly-download-linux64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                Download for Linux 64-bit
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+      <li class="os_linux64-aarch64">
+        <a class="download-link button mzp-t-xl mzp-c-button mzp-t-product ga-product-download"
+           id="desktop-nightly-download-linux64-aarch64"
+           href="https://download.mozilla.org/?product=firefox-nightly-latest-ssl&amp;os=linux64-aarch64&amp;lang=en-US"
+           data-download-version="linux64-aarch64"
+           data-cta-text="Download Firefox for Linux ARM64/AArch64"
+           data-testid="desktop-nightly-download-linux64-aarch64"
+           data-cta-type="firefox"
+           >
+          <strong class="download-title">
+            
+              
+                
+                  Firefox Nightly
+                
+              
+            
+          </strong>
+          <span class="mzp-c-button-icon-end">
+            <!-- TODO: replace with new protocol-assets version -->
+            <img src="https://www.firefox.com/media/img/icons/m24-small/download-white.81646af3f50d.svg" alt="" />
+          </span>
+        </a>
+      </li>
+    
+  </ul>
+  <small class="fx-privacy-link mzp-c-button-download-privacy-link">
+    <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_content=download-button">
+      Firefox Privacy Notice
+    </a>
+  </small>
+</div>
+    
+      </div>
+    </div>
+  </div>
+</section>
+
+  <div class="l-notes mzp-l-content">
+    <p class="show-linux">Using Debian, Ubuntu or any Debian-based distribution?<br> You can set up our <a href="https://support.mozilla.org/products/firefox/install-and-update-firefox" rel="external noopener" data-cta-text="Get help with your installation">APT repository instead</a>.</p>
+    <ul>
+      <li><a href="/en-US/firefox/nightly/notes/">Release Notes</a></li>
+      <li><a rel="external" href="https://blog.nightly.mozilla.org/">Nightly Blog</a></li>
+      <li>
+        <a href="/en-US/download/all/desktop-nightly/">
+          All Languages and Platforms
+        </a>
+      </li>
+      <li><a href="https://ftp.mozilla.org/pub/firefox/nightly/">Previous Nightly Builds</a></li>
+    </ul>
+    <p>
+      
+        Nightly is an unstable testing and development platform. By default, Nightly sends data to Mozilla — and sometimes our partners — to help us handle problems and try ideas. <a href="https://www.mozilla.org/en-US/privacy/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=channel-desktop#pre-release">Learn what is shared</a>.
+      
+    </p>
+    <p>Note: Firefox Nightly will update approximately once or twice a day.</p>
+  </div>
+</section>
+
+
+  <aside class="mzp-t-picto-center">
+  <div class="mzp-c-picto">
+  
+    <img loading="lazy" src="https://www.firefox.com/media/img/icons/warning.0819e9039243.svg" alt="" class="mzp-c-picto-image" width="44">
+  
+  <h2 class="mzp-c-picto-heading">See something that isn’t working? Let us know.</h2>
+  
+  <div class="mzp-c-picto-body">
+    
+      <ul>
+        <li><a class="mzp-c-cta-link" href="https://bugzilla.mozilla.org/enter_bug.cgi">File a bug now</a></li>
+        <li><a class="mzp-c-cta-link" href="https://support.mozilla.org/kb/contributors-guide-writing-good-bug">Tips for filing a bug</a></li>
+      </ul>
+      
+  </div>
+  
+</div>
+    </aside>
+
+  <section class="t-newsletter">
+    <div class="mzp-l-content">
+      
+
+
+
+
+
+
+  <form id="newsletter-form" class="mzp-c-newsletter-form" action="https://basket.mozilla.org/news/subscribe/" method="post" data-testid="newsletter-form">
+    
+      <div hidden>
+        <div id="id_newsletters"><div>
+    <label for="id_newsletters_0"><input type="checkbox" name="newsletters" value="mozilla-and-you" id="id_newsletters_0" checked>
+ Firefox</label>
+
+</div>
+</div>
+      </div>
+    
+    <input type="hidden" name="source_url" value="https://www.firefox.com/en-US/channel/desktop/?redirect_source=mozilla-org">
+
+    
+    <header class="mzp-c-newsletter-header">
+      <h3 class="mzp-c-newsletter-title"><span>Firefox</span> + You</h3>
+      
+      
+      <p class="mzp-c-newsletter-desc">Get Firefox tips, tricks, news and more</p>
+      
+    </header>
+    
+
+    <fieldset class="mzp-c-newsletter-content">
+      <div class="mzp-c-form-errors hidden" id="newsletter-errors" data-testid="newsletter-error-message">
+        
+        <ul class="mzp-u-list-styled">
+          <li class="error-email-invalid hidden">
+            Please enter a valid email address
+          </li>
+          <li class="error-select-country hidden">
+            Please select a country or region
+          </li>
+          <li class="error-select-language hidden">
+            Please select a language
+          </li>
+          <li class="error-newsletter-checkbox hidden">
+            Please check at least one of the newsletter options.
+          </li>
+          <li class="error-privacy-policy hidden">
+            You must agree to the privacy notice
+          </li>
+          <li class="error-try-again-later hidden">
+            We are sorry, but there was a problem with our system. Please try again later!
+          </li>
+        </ul>
+      </div>
+
+      <label for="id_email">Your email address:</label>
+      
+        
+      
+      <input type="email" name="email" required data-testid="newsletter-email-input" maxlength="320" placeholder="yourname@example.com" class="mzp-js-email-field" id="id_email">
+
+      <div id="newsletter-details" class="mzp-c-newsletter-details">
+        <div class="mzp-c-newsletter-details-inner">
+        
+          <label for="id_country">Select country or region:</label>
+          <p><select name="country" required="required" aria-required="true" data-testid="newsletter-country-select" id="id_country">
+  <option value="af">Afghanistan</option>
+
+  <option value="qz">Akrotiri</option>
+
+  <option value="al">Albania</option>
+
+  <option value="dz">Algeria</option>
+
+  <option value="as">American Samoa</option>
+
+  <option value="ad">Andorra</option>
+
+  <option value="ao">Angola</option>
+
+  <option value="ai">Anguilla</option>
+
+  <option value="aq">Antarctica</option>
+
+  <option value="ag">Antigua and Barbuda</option>
+
+  <option value="ar">Argentina</option>
+
+  <option value="am">Armenia</option>
+
+  <option value="aw">Aruba</option>
+
+  <option value="xa">Ashmore and Cartier Islands</option>
+
+  <option value="au">Australia</option>
+
+  <option value="at">Austria</option>
+
+  <option value="az">Azerbaijan</option>
+
+  <option value="bs">Bahamas, The</option>
+
+  <option value="bh">Bahrain</option>
+
+  <option value="xb">Baker Island</option>
+
+  <option value="bd">Bangladesh</option>
+
+  <option value="bb">Barbados</option>
+
+  <option value="qs">Bassas da India</option>
+
+  <option value="by">Belarus</option>
+
+  <option value="be">Belgium</option>
+
+  <option value="bz">Belize</option>
+
+  <option value="bj">Benin</option>
+
+  <option value="bm">Bermuda</option>
+
+  <option value="bt">Bhutan</option>
+
+  <option value="bo">Bolivia</option>
+
+  <option value="ba">Bosnia and Herzegovina</option>
+
+  <option value="bw">Botswana</option>
+
+  <option value="bv">Bouvet Island</option>
+
+  <option value="br">Brazil</option>
+
+  <option value="io">British Indian Ocean Territory</option>
+
+  <option value="bn">Brunei</option>
+
+  <option value="bg">Bulgaria</option>
+
+  <option value="bf">Burkina Faso</option>
+
+  <option value="mm">Burma</option>
+
+  <option value="bi">Burundi</option>
+
+  <option value="kh">Cambodia</option>
+
+  <option value="cm">Cameroon</option>
+
+  <option value="ca">Canada</option>
+
+  <option value="cv">Cape Verde</option>
+
+  <option value="bq">Caribbean Netherlands</option>
+
+  <option value="ky">Cayman Islands</option>
+
+  <option value="cf">Central African Republic</option>
+
+  <option value="td">Chad</option>
+
+  <option value="cl">Chile</option>
+
+  <option value="cn">China</option>
+
+  <option value="cx">Christmas Island</option>
+
+  <option value="cp">Clipperton Island</option>
+
+  <option value="cc">Cocos (Keeling) Islands</option>
+
+  <option value="co">Colombia</option>
+
+  <option value="km">Comoros</option>
+
+  <option value="cg">Congo (Brazzaville)</option>
+
+  <option value="cd">Congo (Kinshasa)</option>
+
+  <option value="ck">Cook Islands</option>
+
+  <option value="xc">Coral Sea Islands</option>
+
+  <option value="cr">Costa Rica</option>
+
+  <option value="hr">Croatia</option>
+
+  <option value="cu">Cuba</option>
+
+  <option value="cw">Curaçao</option>
+
+  <option value="cy">Cyprus</option>
+
+  <option value="cz">Czechia</option>
+
+  <option value="ci">Côte d’Ivoire</option>
+
+  <option value="dk">Denmark</option>
+
+  <option value="xd">Dhekelia</option>
+
+  <option value="dg">Diego Garcia</option>
+
+  <option value="dj">Djibouti</option>
+
+  <option value="dm">Dominica</option>
+
+  <option value="do">Dominican Republic</option>
+
+  <option value="ec">Ecuador</option>
+
+  <option value="eg">Egypt</option>
+
+  <option value="sv">El Salvador</option>
+
+  <option value="gq">Equatorial Guinea</option>
+
+  <option value="er">Eritrea</option>
+
+  <option value="ee">Estonia</option>
+
+  <option value="sz">Eswatini</option>
+
+  <option value="et">Ethiopia</option>
+
+  <option value="xe">Europa Island</option>
+
+  <option value="fk">Falkland Islands (Islas Malvinas)</option>
+
+  <option value="fo">Faroe Islands</option>
+
+  <option value="fj">Fiji</option>
+
+  <option value="fi">Finland</option>
+
+  <option value="fr">France</option>
+
+  <option value="gf">French Guiana</option>
+
+  <option value="pf">French Polynesia</option>
+
+  <option value="tf">French Southern and Antarctic Lands</option>
+
+  <option value="ga">Gabon</option>
+
+  <option value="gm">Gambia, The</option>
+
+  <option value="xg">Gaza Strip</option>
+
+  <option value="ge">Georgia</option>
+
+  <option value="de">Germany</option>
+
+  <option value="gh">Ghana</option>
+
+  <option value="gi">Gibraltar</option>
+
+  <option value="qx">Glorioso Islands</option>
+
+  <option value="gr">Greece</option>
+
+  <option value="gl">Greenland</option>
+
+  <option value="gd">Grenada</option>
+
+  <option value="gp">Guadeloupe</option>
+
+  <option value="gu">Guam</option>
+
+  <option value="gt">Guatemala</option>
+
+  <option value="gg">Guernsey</option>
+
+  <option value="gn">Guinea</option>
+
+  <option value="gw">Guinea-Bissau</option>
+
+  <option value="gy">Guyana</option>
+
+  <option value="ht">Haiti</option>
+
+  <option value="hm">Heard Island and McDonald Islands</option>
+
+  <option value="hn">Honduras</option>
+
+  <option value="hk">Hong Kong</option>
+
+  <option value="xh">Howland Island</option>
+
+  <option value="hu">Hungary</option>
+
+  <option value="is">Iceland</option>
+
+  <option value="in">India</option>
+
+  <option value="id">Indonesia</option>
+
+  <option value="ir">Iran</option>
+
+  <option value="iq">Iraq</option>
+
+  <option value="ie">Ireland</option>
+
+  <option value="im">Isle of Man</option>
+
+  <option value="il">Israel</option>
+
+  <option value="it">Italy</option>
+
+  <option value="jm">Jamaica</option>
+
+  <option value="xj">Jan Mayen</option>
+
+  <option value="jp">Japan</option>
+
+  <option value="xq">Jarvis Island</option>
+
+  <option value="je">Jersey</option>
+
+  <option value="xu">Johnston Atoll</option>
+
+  <option value="jo">Jordan</option>
+
+  <option value="qu">Juan de Nova Island</option>
+
+  <option value="kz">Kazakhstan</option>
+
+  <option value="ke">Kenya</option>
+
+  <option value="xm">Kingman Reef</option>
+
+  <option value="ki">Kiribati</option>
+
+  <option value="kp">Korea, North</option>
+
+  <option value="kr">Korea, South</option>
+
+  <option value="xk">Kosovo</option>
+
+  <option value="kw">Kuwait</option>
+
+  <option value="kg">Kyrgyzstan</option>
+
+  <option value="la">Laos</option>
+
+  <option value="lv">Latvia</option>
+
+  <option value="lb">Lebanon</option>
+
+  <option value="ls">Lesotho</option>
+
+  <option value="lr">Liberia</option>
+
+  <option value="ly">Libya</option>
+
+  <option value="li">Liechtenstein</option>
+
+  <option value="lt">Lithuania</option>
+
+  <option value="lu">Luxembourg</option>
+
+  <option value="mo">Macau</option>
+
+  <option value="mg">Madagascar</option>
+
+  <option value="mw">Malawi</option>
+
+  <option value="my">Malaysia</option>
+
+  <option value="mv">Maldives</option>
+
+  <option value="ml">Mali</option>
+
+  <option value="mt">Malta</option>
+
+  <option value="mh">Marshall Islands</option>
+
+  <option value="mq">Martinique</option>
+
+  <option value="mr">Mauritania</option>
+
+  <option value="mu">Mauritius</option>
+
+  <option value="yt">Mayotte</option>
+
+  <option value="mx">Mexico</option>
+
+  <option value="fm">Micronesia, Federated States of</option>
+
+  <option value="qm">Midway Islands</option>
+
+  <option value="md">Moldova</option>
+
+  <option value="mc">Monaco</option>
+
+  <option value="mn">Mongolia</option>
+
+  <option value="me">Montenegro</option>
+
+  <option value="ms">Montserrat</option>
+
+  <option value="ma">Morocco</option>
+
+  <option value="mz">Mozambique</option>
+
+  <option value="na">Namibia</option>
+
+  <option value="nr">Nauru</option>
+
+  <option value="xv">Navassa Island</option>
+
+  <option value="np">Nepal</option>
+
+  <option value="nl">Netherlands</option>
+
+  <option value="nc">New Caledonia</option>
+
+  <option value="nz">New Zealand</option>
+
+  <option value="ni">Nicaragua</option>
+
+  <option value="ne">Niger</option>
+
+  <option value="ng">Nigeria</option>
+
+  <option value="nu">Niue</option>
+
+  <option value="nf">Norfolk Island</option>
+
+  <option value="mk">North Macedonia</option>
+
+  <option value="mp">Northern Mariana Islands</option>
+
+  <option value="no">Norway</option>
+
+  <option value="om">Oman</option>
+
+  <option value="pk">Pakistan</option>
+
+  <option value="pw">Palau</option>
+
+  <option value="xl">Palmyra Atoll</option>
+
+  <option value="pa">Panama</option>
+
+  <option value="pg">Papua New Guinea</option>
+
+  <option value="xp">Paracel Islands</option>
+
+  <option value="py">Paraguay</option>
+
+  <option value="pe">Peru</option>
+
+  <option value="ph">Philippines</option>
+
+  <option value="pn">Pitcairn Islands</option>
+
+  <option value="pl">Poland</option>
+
+  <option value="pt">Portugal</option>
+
+  <option value="pr">Puerto Rico</option>
+
+  <option value="qa">Qatar</option>
+
+  <option value="ro">Romania</option>
+
+  <option value="ru">Russia</option>
+
+  <option value="rw">Rwanda</option>
+
+  <option value="re">Réunion</option>
+
+  <option value="bl">Saint Barthélemy</option>
+
+  <option value="sh">Saint Helena, Ascension, and Tristan da Cunha</option>
+
+  <option value="kn">Saint Kitts and Nevis</option>
+
+  <option value="lc">Saint Lucia</option>
+
+  <option value="mf">Saint Martin</option>
+
+  <option value="pm">Saint Pierre and Miquelon</option>
+
+  <option value="vc">Saint Vincent and the Grenadines</option>
+
+  <option value="ws">Samoa</option>
+
+  <option value="sm">San Marino</option>
+
+  <option value="sa">Saudi Arabia</option>
+
+  <option value="sn">Senegal</option>
+
+  <option value="rs">Serbia</option>
+
+  <option value="sc">Seychelles</option>
+
+  <option value="sl">Sierra Leone</option>
+
+  <option value="sg">Singapore</option>
+
+  <option value="sx">Sint Maarten</option>
+
+  <option value="sk">Slovakia</option>
+
+  <option value="si">Slovenia</option>
+
+  <option value="sb">Solomon Islands</option>
+
+  <option value="so">Somalia</option>
+
+  <option value="za">South Africa</option>
+
+  <option value="gs">South Georgia and South Sandwich Islands</option>
+
+  <option value="ss">South Sudan</option>
+
+  <option value="es">Spain</option>
+
+  <option value="xs">Spratly Islands</option>
+
+  <option value="lk">Sri Lanka</option>
+
+  <option value="sd">Sudan</option>
+
+  <option value="sr">Suriname</option>
+
+  <option value="xr">Svalbard</option>
+
+  <option value="se">Sweden</option>
+
+  <option value="ch">Switzerland</option>
+
+  <option value="sy">Syria</option>
+
+  <option value="st">São Tomé and Príncipe</option>
+
+  <option value="tw">Taiwan</option>
+
+  <option value="tj">Tajikistan</option>
+
+  <option value="tz">Tanzania</option>
+
+  <option value="th">Thailand</option>
+
+  <option value="tl">Timor-Leste</option>
+
+  <option value="tg">Togo</option>
+
+  <option value="tk">Tokelau</option>
+
+  <option value="to">Tonga</option>
+
+  <option value="tt">Trinidad and Tobago</option>
+
+  <option value="xt">Tromelin Island</option>
+
+  <option value="tn">Tunisia</option>
+
+  <option value="tr">Turkey</option>
+
+  <option value="tm">Turkmenistan</option>
+
+  <option value="tc">Turks and Caicos Islands</option>
+
+  <option value="tv">Tuvalu</option>
+
+  <option value="ug">Uganda</option>
+
+  <option value="ua">Ukraine</option>
+
+  <option value="ae">United Arab Emirates</option>
+
+  <option value="gb">United Kingdom</option>
+
+  <option value="us" selected>United States</option>
+
+  <option value="uy">Uruguay</option>
+
+  <option value="uz">Uzbekistan</option>
+
+  <option value="vu">Vanuatu</option>
+
+  <option value="va">Vatican City</option>
+
+  <option value="ve">Venezuela</option>
+
+  <option value="vn">Vietnam</option>
+
+  <option value="vg">Virgin Islands, British</option>
+
+  <option value="vi">Virgin Islands, U.S.</option>
+
+  <option value="qw">Wake Island</option>
+
+  <option value="wf">Wallis and Futuna</option>
+
+  <option value="xw">West Bank</option>
+
+  <option value="eh">Western Sahara</option>
+
+  <option value="ye">Yemen</option>
+
+  <option value="zm">Zambia</option>
+
+  <option value="zw">Zimbabwe</option>
+
+</select></p>
+        
+
+        
+          <label for="id_lang">Select language:</label>
+          <p><select name="lang" required="required" aria-required="true" id="id_lang">
+  <option value="id">Bahasa Indonesia</option>
+
+  <option value="de">Deutsch</option>
+
+  <option value="en" selected>English</option>
+
+  <option value="es">Español</option>
+
+  <option value="fr">Français</option>
+
+  <option value="pl">Polski</option>
+
+  <option value="pt">Português</option>
+
+  <option value="ru">Русский</option>
+
+  <option value="zh-TW">正體中文</option>
+
+</select></p>
+        
+
+        
+
+        <p>
+          <label for="privacy" class="mzp-u-inline">
+            <input type="checkbox" id="privacy" name="privacy" required aria-required="true" data-testid="newsletter-privacy-checkbox"> I’m okay with Mozilla handling my info as explained in <a href="https://www.mozilla.org/en-US/privacy/websites/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=newsletter-form">this Privacy Notice</a>
+          </label>
+        </p>
+        </div>
+      </div>
+
+      <p class="mzp-c-form-submit">
+        <button type="submit" id="newsletter-submit" class="mzp-c-button mzp-t-product mzp-t-lg" data-cta-text="Newsletter Sign Up" data-testid="newsletter-submit-button">
+          
+            Sign Up Now
+          
+        </button>
+
+        
+            <span class="mzp-c-fieldnote">
+              
+              
+                We will only send you Firefox-related information. You can unsubscribe at any time.
+              
+            </span>
+        
+      </p>
+    </fieldset>
+  </form>
+
+  <div id="newsletter-thanks" class="mzp-c-newsletter-thanks hidden" data-testid="newsletter-thanks-message">
+    
+      
+  <h3>Thanks!</h3>
+  <p>If you haven’t previously confirmed a subscription to a Mozilla-related newsletter, you may have to do so. Please check your inbox or your spam filter for an email from us.</p>
+
+    
+  </div>
+
+
+    </div>
+  </section>
+</main>
+
+
+      
+        
+
+
+
+
+<footer class="mzp-c-footer" id="colophon" role="contentinfo">
+  <div class="mzp-l-content">
+    <div class="mzp-c-footer-primary">
+      <div class="mzp-c-footer-sections">
+        <section class="mzp-c-footer-section c-footer-section-download" aria-label="Download">
+          <h2 class="mzp-c-footer-heading c-footer-heading-download" data-testid="footer-heading-download">
+            Download
+          </h2>
+          <div class="c-footer-section-platforms">
+            
+            <h3 class="c-footer-subheading"><a href="/thanks/" data-link-type="Desktop" data-download-os="Desktop" data-download-version="standard" data-link-position="footer" data-link-text="Download Firefox">Download Firefox</a></h3>
+            <ul class="mzp-c-footer-list c-footer-list-download" data-testid="footer-list-download">
+              <li><a href="/en-US/browsers/desktop/windows/" data-link-position="footer" data-link-text="Windows">Windows</a></li>
+              <li><a href="/en-US/browsers/desktop/mac/" data-link-position="footer" data-link-text="Mac">Mac</a></li>
+              <li><a href="/en-US/browsers/mobile/ios/" data-link-position="footer" data-link-text="iOS">iOS</a></li>
+              <li><a href="/en-US/browsers/mobile/android/" data-link-position="footer" data-link-text="Android">Android</a></li>
+              <li><a href="/en-US/browsers/desktop/linux/" data-link-position="footer" data-link-text="Linux">Linux</a></li>
+              <li><a href="/en-US/download/all/" data-link-position="footer" data-link-text="Custom Download">Custom Download Options</a></li>
+            </ul>
+          </div>
+          <div class="c-footer-section-latest">
+            <h3 class="c-footer-subheading">Latest Builds</h3>
+            <ul class="mzp-c-footer-list">
+              <li><a href="/en-US/channel/desktop/#nightly" data-link-position="footer" data-link-text="Nightly">Nightly</a></li>
+              <li><a href="/en-US/channel/desktop/#beta" data-link-position="footer" data-link-text="Beta">Beta</a></li>
+            </ul>
+          </div>
+          <div class="c-footer-section-business">
+            <h3 class="c-footer-subheading">Firefox for Business</h3>
+            <ul class="mzp-c-footer-list">
+              <li><a href="/en-US/browsers/enterprise/" data-link-position="footer" data-link-text="Enterprise">Enterprise</a></li>
+            </ul>
+          </div>
+        </section>
+
+        <section class="mzp-c-footer-section c-footer-section-community" aria-label="Community">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-community">
+            Community
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-community">
+            <li><a href="https://connect.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Connect">Connect</a></li>
+            <li><a href="https://www.mozilla.org/contribute/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Contribute">Contribute</a></li>
+            <li><a href="/en-US/channel/desktop/developer/" data-link-position="footer" data-link-text="Developer">Developer</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section c-footer-section-resources" aria-label="Resources">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-resources">
+            Resources
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-resources">
+            <li><a href="/en-US/compare/" data-link-position="footer" data-link-text="Compare">Compare</a></li>
+            <li><a href="/en-US/firefox/notes/" data-link-position="footer" data-link-text="Release Notes">Release Notes</a></li>
+            <li><a href="/en-US/more/" data-link-position="footer" data-link-text="Learn">Learn</a></li>
+            <li><a href="https://support.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Support">Support</a></li>
+            <li><a href="https://addons.mozilla.org/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Add ons">Add-ons</a></li>
+            <li><a href="https://community.mozilla.org/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Community">Community</a></li>
+            <li><a href="https://blog.mozilla.org/en/category/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Blog">Blog</a></li>
+          </ul>
+        </section>
+
+        <section class="mzp-c-footer-section c-footer-section-follow" aria-label="footer-follow">
+          <h2 class="mzp-c-footer-heading" data-testid="footer-heading-follow">
+            Follow Us
+          </h2>
+          <ul class="mzp-c-footer-list" data-testid="footer-list-follow">
+            <li><a class="instagram" href="https://www.instagram.com/firefox/" data-link-position="footer" data-link-text="Instagram">Instagram<span></span></a></li>
+            <li><a class="youtube" href="https://www.youtube.com/user/firefoxchannel" data-link-position="footer" data-link-text="YouTube">YouTube<span></span></a></li>
+            <li><a class="tiktok" href="https://www.tiktok.com/@firefox" data-link-position="footer" data-link-text="TikTok">TikTok<span></span></a></li>
+            <li><a class="bluesky" href="https://bsky.app/profile/firefox.com" data-link-position="footer" data-link-text="Bluesky" translate="no">Bluesky<span></span></a></li>
+            <li><a class="podcast" href="https://www.youtube.com/@firefox/podcasts" data-link-position="footer" data-link-text="Podcast" translate="no">Podcast<span></span></a></li>
+          </ul>
+        </section>
+      </div>
+      <div class="c-footer-logo">
+        <a href="/en-US/" data-link-position="footer" data-link-text="Firefox">Firefox</a>
+      </div>
+    </div>
+    <div class="mzp-c-footer-secondary">
+      <div class="mzp-c-footer-legal">
+        <ul class="mzp-c-footer-terms">
+          
+          <li><a href="https://www.mozilla.org/en-US/privacy/websites/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Privacy">Website Privacy Notice</a></li>
+          <li><a href="https://www.mozilla.org/about/legal/terms/firefox/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Terms of Use">Terms of Use</a></li>
+          <li>
+            
+            <a href="/en-US/privacy/websites/cookie-settings/" data-link-position="footer" data-link-text="Cookies">Cookie Policy</a>
+          </li>
+          <li><a href="https://www.mozilla.org/en-US/about/governance/policies/participation/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Community Participation Guidelines">Community Participation Guidelines</a></li>
+          <li><a href="https://www.mozilla.org/foundation/trademarks/policy/?utm_source=www.firefox.com&amp;utm_medium=referral&amp;utm_campaign=footer" data-link-position="footer" data-link-text="Logo Trademark Licensing">Logo Trademark Licensing</a></li>
+        </ul>
+      </div>
+
+      <div class="c-footer-more">
+        <div class="c-footer-branding">
+          <h2 class="mzp-c-footer-heading">Powered by Mozilla</h2>
+          <p>Putting people before profits since 1998</p>
+        </div>
+        <div class="mzp-c-footer-language">
+          
+  <form id="lang_form" class="mzp-c-language-switcher" method="get" action="#">
+    <a class="mzp-c-language-switcher-link" href="/locales/">Language</a>
+    <label for="page-language-select">Language</label>
+    <select id="page-language-select" class="mzp-js-language-switcher-select" name="lang" dir="ltr" data-testid="footer-language-select">
+      
+        <option lang="an" value="an">aragonés</option>
+      
+        <option lang="ar" value="ar">عربي</option>
+      
+        <option lang="ast" value="ast">Asturianu</option>
+      
+        <option lang="az" value="az">Azərbaycanca</option>
+      
+        <option lang="azz" value="azz">nahuatl sierra norte Puebla</option>
+      
+        <option lang="be" value="be">Беларуская</option>
+      
+        <option lang="bg" value="bg">Български</option>
+      
+        <option lang="bn" value="bn">বাংলা</option>
+      
+        <option lang="bs" value="bs">Bosanski</option>
+      
+        <option lang="ca" value="ca">Català</option>
+      
+        <option lang="cak" value="cak">Maya Kaqchikel</option>
+      
+        <option lang="cs" value="cs">Čeština</option>
+      
+        <option lang="cy" value="cy">Cymraeg</option>
+      
+        <option lang="da" value="da">Dansk</option>
+      
+        <option lang="de" value="de">Deutsch</option>
+      
+        <option lang="dsb" value="dsb">Dolnoserbšćina</option>
+      
+        <option lang="el" value="el">Ελληνικά</option>
+      
+        <option lang="en-CA" value="en-CA">English (Canadian)</option>
+      
+        <option lang="en-GB" value="en-GB">English (British)</option>
+      
+        <option lang="en-US" value="en-US" selected>English</option>
+      
+        <option lang="eo" value="eo">Esperanto</option>
+      
+        <option lang="es-AR" value="es-AR">Español (de Argentina)</option>
+      
+        <option lang="es-CL" value="es-CL">Español (de Chile)</option>
+      
+        <option lang="es-ES" value="es-ES">Español (de España)</option>
+      
+        <option lang="es-MX" value="es-MX">Español (de México)</option>
+      
+        <option lang="et" value="et">Eesti keel</option>
+      
+        <option lang="eu" value="eu">Euskara</option>
+      
+        <option lang="fa" value="fa">فارسی</option>
+      
+        <option lang="fi" value="fi">suomi</option>
+      
+        <option lang="fr" value="fr">Français</option>
+      
+        <option lang="fy-NL" value="fy-NL">Frysk</option>
+      
+        <option lang="ga-IE" value="ga-IE">Gaeilge</option>
+      
+        <option lang="gl" value="gl">Galego</option>
+      
+        <option lang="gn" value="gn">Avañe'ẽ</option>
+      
+        <option lang="gu-IN" value="gu-IN">ગુજરાતી (ભારત)</option>
+      
+        <option lang="he" value="he">עברית</option>
+      
+        <option lang="hi-IN" value="hi-IN">हिन्दी (भारत)</option>
+      
+        <option lang="hr" value="hr">Hrvatski</option>
+      
+        <option lang="hsb" value="hsb">Hornjoserbsce</option>
+      
+        <option lang="hu" value="hu">magyar</option>
+      
+        <option lang="hy-AM" value="hy-AM">Հայերեն</option>
+      
+        <option lang="ia" value="ia">Interlingua</option>
+      
+        <option lang="id" value="id">Bahasa Indonesia</option>
+      
+        <option lang="is" value="is">íslenska</option>
+      
+        <option lang="it" value="it">Italiano</option>
+      
+        <option lang="ja" value="ja">日本語</option>
+      
+        <option lang="ka" value="ka">ქართული</option>
+      
+        <option lang="kab" value="kab">Taqbaylit</option>
+      
+        <option lang="kk" value="kk">Қазақ</option>
+      
+        <option lang="ko" value="ko">한국어</option>
+      
+        <option lang="lij" value="lij">Ligure</option>
+      
+        <option lang="lo" value="lo">ພາສາລາວ</option>
+      
+        <option lang="lt" value="lt">Lietuvių</option>
+      
+        <option lang="ml" value="ml">മലയാളം</option>
+      
+        <option lang="mr" value="mr">मराठी</option>
+      
+        <option lang="ms" value="ms">Melayu</option>
+      
+        <option lang="my" value="my">မြန်မာဘာသာ</option>
+      
+        <option lang="nb-NO" value="nb-NO">Norsk bokmål</option>
+      
+        <option lang="nl" value="nl">Nederlands</option>
+      
+        <option lang="nn-NO" value="nn-NO">Norsk nynorsk</option>
+      
+        <option lang="oc" value="oc">occitan (lengadocian)</option>
+      
+        <option lang="pa-IN" value="pa-IN">ਪੰਜਾਬੀ (ਭਾਰਤ)</option>
+      
+        <option lang="pl" value="pl">Polski</option>
+      
+        <option lang="pt-BR" value="pt-BR">Português (do Brasil)</option>
+      
+        <option lang="pt-PT" value="pt-PT">Português (Europeu)</option>
+      
+        <option lang="rm" value="rm">rumantsch</option>
+      
+        <option lang="ro" value="ro">Română</option>
+      
+        <option lang="ru" value="ru">Русский</option>
+      
+        <option lang="sk" value="sk">slovenčina</option>
+      
+        <option lang="skr" value="skr">سرائیکی</option>
+      
+        <option lang="sl" value="sl">Slovenščina</option>
+      
+        <option lang="sq" value="sq">Shqip</option>
+      
+        <option lang="sr" value="sr">Српски</option>
+      
+        <option lang="sv-SE" value="sv-SE">Svenska</option>
+      
+        <option lang="ta" value="ta">தமிழ்</option>
+      
+        <option lang="tg" value="tg">Тоҷикӣ</option>
+      
+        <option lang="th" value="th">ไทย</option>
+      
+        <option lang="tr" value="tr">Türkçe</option>
+      
+        <option lang="trs" value="trs">Triqui</option>
+      
+        <option lang="uk" value="uk">Українська</option>
+      
+        <option lang="ur" value="ur">اُردو</option>
+      
+        <option lang="vi" value="vi">Tiếng Việt</option>
+      
+        <option lang="zh-CN" value="zh-CN">中文 (简体)</option>
+      
+        <option lang="zh-TW" value="zh-TW">正體中文 (繁體)</option>
+      
+    </select>
+    <button type="submit">Go</button>
+  </form>
+
+        </div>
+      </div>
+
+
+
+
+
+
+    </div>
+  </div>
+</footer>
+      
+
+      
+      
+    </div>
+
+    
+    
+      
+        <!--[if !IE]><!-->
+          
+          <script src="https://www.firefox.com/media/js/sentry.addb150b9b6a.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    
+      <!--[if !IE]><!-->
+        
+        <script src="https://www.firefox.com/media/js/lib.d51b3d342192.js"></script>
+        <script src="https://www.firefox.com/media/js/fxa.b55e6ed773aa.js"></script>
+        <script src="https://www.firefox.com/media/js/data.4d0e3c21952a.js"></script>
+        <script src="https://www.firefox.com/media/js/ui.02022295d79b.js"></script>
+      <!--<![endif]-->
+
+      <!--[if IE 9]>
+        
+        <script src="https://www.firefox.com/media/js/lib-ie.cf16e08599c3.js"></script>
+      <![endif]-->
+    
+
+    
+    
+      
+        <!--[if IE 9]><!-->
+          
+          <script src="https://www.firefox.com/media/js/stub-attribution.045fa2a7e0ac.js"></script>
+        <!--<![endif]-->
+      
+    
+
+    <!--[if !IE]><!-->
+    
+  
+  <script src="https://www.firefox.com/media/js/newsletter.1e88dccced52.js"></script>
+
+
+    
+    <!--<![endif]-->
+
+    
+    <!--[if IE 9]><!-->
+      
+      <script src="https://www.firefox.com/media/js/consent-banner.30f5ed2ccd09.js"></script>
+    <!--<![endif]-->
+    
+  </body>
+</html>
